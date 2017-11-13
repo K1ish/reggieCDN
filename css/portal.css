@@ -1,0 +1,36 @@
+/* CSS (C) 2017 Reggie inc. */
+body {
+background-image: url('/i/header_bg.png');
+background-repeat: repeat;
+}
+.reggie-header {
+color: #ff6600;
+font-family: "Droid Sans",Verdana,Arial,Helvetica,sans-serif;
+text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87
+}
+p {
+  color: #ff6600;
+  font-family: "Droid Sans",Verdana,Arial,Helvetica,sans-serif;
+}
+.rmoney {
+    text-align: center;
+}
+/*
+.reggie-body {
+    float: center;
+}
+.reggie-reader {
+    float: left;
+}
+*/
+.footer {
+  text-align: center;
+}
+.reggie-search {
+  float: right;
+  text-align: right;
+ /* position: absolute; */
+}
+.reggie-navbar {
+
+}
